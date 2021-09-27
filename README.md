@@ -14,4 +14,4 @@ Among that couple, I'm fairly often using other concepts, languages and tools:
 - :wrench: Webpack, Grunt, Composer, yarn, npm
 - :ship: Docker, *-compose, terminal, bash 
 
-and other useful things :zap:
+and many other useful things :zap:
